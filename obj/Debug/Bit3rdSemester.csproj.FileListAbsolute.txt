@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\Bit3rdSemester\bin\Debug\Bit3rdSemester.exe.config
+C:\Users\Dell\source\repos\Bit3rdSemester\bin\Debug\Bit3rdSemester.exe
+C:\Users\Dell\source\repos\Bit3rdSemester\bin\Debug\Bit3rdSemester.pdb
+C:\Users\Dell\source\repos\Bit3rdSemester\obj\Debug\Bit3rdSemester.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Bit3rdSemester\obj\Debug\Bit3rdSemester.Form1.resources
+C:\Users\Dell\source\repos\Bit3rdSemester\obj\Debug\Bit3rdSemester.Properties.Resources.resources
+C:\Users\Dell\source\repos\Bit3rdSemester\obj\Debug\Bit3rdSemester.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Bit3rdSemester\obj\Debug\Bit3rdSemester.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Bit3rdSemester\obj\Debug\Bit3rdSemester.exe
+C:\Users\Dell\source\repos\Bit3rdSemester\obj\Debug\Bit3rdSemester.pdb
+C:\Users\Dell\source\repos\Bit3rdSemester\obj\Debug\Bit3rdSemester.data_entry.resources
